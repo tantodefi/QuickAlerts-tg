@@ -1,0 +1,12 @@
+{
+    "name": "ateny/universal-link",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Amir Rahimi",
+            "email": "atenyun@gmail.com"
+        }
+    ],
+    "require": {}
+}
